@@ -14,9 +14,7 @@ maintainers = ["eric_G"]
 [upstream]
 license = "Apache-2.0"
 website = "https://example.com"
-demo = "https://demo.example.com"
-admindoc = "https://yunohost.org/packaging_apps"
-userdoc = "https://yunohost.org/apps"
+admindoc = "https://0xerr0r.github.io/blocky/latest/"
 code = "https://github.com/0xERR0R/blocky"
 
 [integration]
