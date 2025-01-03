@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+Blocky is a DNS proxy and ad-blocker for the local network written in Go.
