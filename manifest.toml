@@ -13,7 +13,7 @@ maintainers = ["eric_G"]
 
 [upstream]
 license = "Apache-2.0"
-website = "https://example.com"
+website = "https://0xerr0r.github.io/blocky/latest/"
 admindoc = "https://0xerr0r.github.io/blocky/latest/"
 code = "https://github.com/0xERR0R/blocky"
 
